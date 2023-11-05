@@ -2,18 +2,15 @@
 {{ $scripts := slice }}
 {{ $scriptsLazy := slice }}
 {{ range site.Params.plugins.js }}
-  {{ if findRE "^http" .link }}
-    <script
-      src="{{ .link | relURL }}"
-      type="application/javascript"
-      {{ .attributes | safeHTMLAttr }}></script>
-  {{ else }}
-    {{ if not .lazy }}
-      {{ $scripts = $scripts | append (resources.Get .link) }}
-    {{ else }}
-      {{ $scriptsLazy = $scriptsLazy | append (resources.Get .link) }}
-    {{ end }}
-  {{ end }}
+{{ if findRE "^http" .link }}
+<script src="{{ .link | relURL }}" type="application/javascript" {{ .attributes | safeHTMLAttr }}></script>
+{{ else }}
+{{ if not .lazy }}
+{{ $scripts = $scripts | append (resources.Get .link) }}
+{{ else }}
+{{ $scriptsLazy = $scriptsLazy | append (resources.Get .link) }}
+{{ end }}
+{{ end }}
 {{ end }}
 
 
@@ -24,30 +21,24 @@
 {{ $scriptsLazy = $scriptsLazy | resources.Concat "js/script-lazy.js" }}
 
 {{ if hugo.IsProduction }}
-  {{ $scripts = $scripts | minify | fingerprint }}
-  {{ $scriptsLazy = $scriptsLazy | minify | fingerprint }}
+{{ $scripts = $scripts | minify | fingerprint }}
+{{ $scriptsLazy = $scriptsLazy | minify | fingerprint }}
 {{ end }}
 
 {{/* scripts */}}
-<script
-  crossorigin="anonymous"
-  integrity="{{ $scripts.Data.Integrity }}"
-  src="{{ $scripts.RelPermalink }}"></script>
+<script crossorigin="anonymous" integrity="{{ $scripts.Data.Integrity }}" src="{{ $scripts.RelPermalink }}"></script>
 
 {{/* scripts lazy */}}
-<script
-  crossorigin="anonymous"
-  integrity="{{ $scriptsLazy.Data.Integrity }}"
-  src="{{ $scriptsLazy.RelPermalink }}"
+<script crossorigin="anonymous" integrity="{{ $scriptsLazy.Data.Integrity }}" src="{{ $scriptsLazy.RelPermalink }}"
   defer></script>
 
 <!-- progressive web app -->
 {{ partialCached "pwa.html" . }}
 
+<!-- google adsense -->
+{{ partialCached "adsense-script.html" . }}
+
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@3.0.5/dist/js.cookie.min.js"></script>
 
 <!-- cookie consent -->
 {{ partialCached "cookie-consent.html" . }}
-
-
-<!-- google adsense -->
-{{ partialCached "adsense-script.html" . }}
