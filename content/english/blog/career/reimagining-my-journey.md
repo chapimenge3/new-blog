@@ -10,82 +10,83 @@ tags: ["career", "programming", "advice"]
 draft: false
 ---
 
-Would I do things differently If I were meant to push the reset button on my career? Let's find out.
+# Would I Do Things Differently If I Could Reset My Career?
 
-Hey Everyone, Lately I have been getting asked one question in a different format by a lot of beginners. The question might bot be the exact same but the meaning is the same. The question is "What would you do differently if you were to start your career again?". So I thought why not I write a blog about it and share my thoughts with you.
+Hey Everyone,
 
-My Programming journey begins when I joined University yet my motivation comes from my father and now my dearest friend but my father lecturer.
+Lately, I've been asked a similar question in various forms by many beginners. While the phrasing may differ, the core question remains constant: "What would you do differently if you were to start your career again?" So, I thought it would be a great idea to write a blog about it and share my thoughts with you.
 
-So this post is dedicated to My Father Mengistu Ali and My Friend [Solomon Agizew](https://www.linkedin.com/in/solomon-agizew-33476b72/).
+My programming journey began when I entered university, but my motivation came from two important figures in my life - my father Mengistu Ali and my dearest friend Solomon Agizew(who is also a lecturer and happens to be my father lecturer. funny right ).
 
-My Story begin when i was grade 6 and my father told me that i will change school to a private school and in over the year i will be learning and he will pay for my school fee and over the summer he will start his bachelor degree at Mizan Tepi University. At that time i was really kid and i didn't thought of how sweet this is and how much price he paid to pay my school fee.
+So, I'd like to dedicate this post to My Father, Mengistu Ali, and My Friend [Solomon Agizew](https://www.linkedin.com/in/solomon-agizew-33476b72/).
 
-Moving forward with a lot of ups and down when i got to 12th grade my father graduated from computer science and by the time he graduated i was so interested in computer science his teacher was my dearest friend. So i was so excited to learn from him and i was so excited to learn computer science.
+My story begins back when I was in the 6th grade. My father told me that I would be changing schools to attend a private school from public one, and he would cover my school fees for the year. Meanwhile, he would start his bachelor's degree at Mizan Tepi University over the summer means he would pay my school for 10 month school time and the rest two month he will pay for his university fee. At that time, I was just a kid, and I didn't fully grasp how significant this gesture was and the sacrifices my father made to provide for my education. Honestly he is not earning that much but he did everything he can to provide for my education.
 
-The motivation for me to learn computer science was my father and my friend. So i started learning computer science. Here is the part that my answer for the above question starts.
+As time passed, with its fair share of ups and downs, I reached the 12th grade. My father successfully graduated with a degree in computer science. By that point, I had developed a keen interest in computer science, and it so happened that my father's teacher had become my dearest friend. I was thrilled about the prospect of learning from him, especially in the field of computer science.
 
-**Disclaimer**: This is my personal opinion and it might not be the same for you. So take it with a grain of salt.
+The motivation for me to pursue a career in computer science stemmed from the influence of my father and my friend. This is where my answer to the question of whether I would do things differently in my career begins.
 
-## What would i do when I start learning programming?
+**Disclaimer:** This is my personal opinion, and it may not apply to everyone. Please consider it as just one perspective.
 
-Aside from my university courses, I would start from the basics of C++. You know why? Understanding how C++ works at a low level will help me grasp the concepts of other programming languages. Once i got the understanding and syntax of C++, I would directly go to the data structure and algorithms concepts.
+## What would I do when I start learning programming?
 
-How do i learn data structure and algorithms? Most people took it for granted being a part of programming community, joining a community and learning together is the best energy booster you will ever get so i would join a community and learn together.
+Aside from my university courses, I would start with the basics of C++. You might wonder why. Understanding how C++ works at a low level will help me grasp the concepts of other programming languages. Once I have a good understanding of C++ and its syntax, I would directly dive into data structures and algorithms.
 
-After joining the community by having a good competitive mindset i would start a programming challenges on different platforms but the main catch i would have is i might not go for [Leetcode](https://leetcode.com/). The reason behind this is leetcode is generally perceived as a job interview preparation platform(by all means i am not saying it is not a good platform) but by that stage i wouldn't want to think about getting a job.
+How would I learn data structures and algorithms? Many folks take it for granted in the programming community, but joining a community and learning together is the best way to keep the motivation flowing. So, I'd definitely join a community to learn alongside others.
 
-So if you ask what kind of platform i would go for? The easiest for me is [Open Kattis](https://open.kattis.com/) when i started and move to [CodeForce](https://codeforces.com/) as i would be get more challenges and more competitive environment.
+After becoming part of the community and with a strong competitive mindset, I would take on programming challenges on different platforms. But here's the catch - I might not go for [Leetcode](https://leetcode.com). The reason behind this choice is that Leetcode is generally seen as a platform for job interview preparation (not to say it's not a good platform). At this stage, my primary goal is not job-related.
 
-Let me mention a resource i would go for to learn C++ and DSA.
+So, what kind of platform would I choose? For me, the easiest starting point would be [Open Kattis](https://open.kattis.com), and as I become more experienced, I'd transition to [CodeForce](https://codeforces.com) for more challenges and a competitive environment.
 
-- [C++ Primer by Stanley Lippman Book](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113)
-- [Programming in C++ by Bjarne Stroustrup](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840) Creator of C++
+Let me mention some resources I would rely on to learn C++ and DSA:
+
+- [C++ Primer by Stanley Lippman](https://www.amazon.com/Primer-5th-Stanley-B-Lippman/dp/0321714113)
+- [Programming in C++ by Bjarne Stroustrup](https://www.amazon.com/C-Programming-Language-4th/dp/0321563840) (the creator of C++)
 - [INTRODUCTION TO ALGORITHMS](https://www.goodreads.com/book/show/108986.Introduction_to_Algorithms)
 - [GeeksForGeeks](https://www.geeksforgeeks.org/)
 - [Visualgo](https://visualgo.net/en)
 
-and many more resources that i would find on the internet.
+I would explore many more resources available on the internet.
 
-Now once i do this for at least couple of month I would start doing some projects. Note that I am not saying you should stop doing competitive programming. I also want to mention i know you would have a school or other things to do so you might be able to adjust the time you spend on this.
+After dedicating at least a couple of months to this learning process, I would start working on some projects. Keep in mind that I'm not suggesting you should stop competitive programming. Also, I understand that you might have other commitments like school, but adjusting your time is possible.
 
-For university student if you are thinking you don't have much time to do this i would say you are wrong. You have a lot of time to do this. You just have to manage your time and you will be able to do this. When you graduated the world is going to change as you really won't have time to do this by then, so better start now.
+For university students who believe they don't have much time for this, I would say you have more time than you think. It's all about time management, and you can make it work. Once you graduate, life's demands can increase, making it harder to find time for this, so it's wise to start now.
 
-## What kind of projects would i do?
+## What Kind of Projects Would I Do?
 
-I would start with a simple project with the knowledge that i have which is a console application may be a banking system or a simple calculator. Now that i am comfortable at programming i would go for the next step which is Web Development.
+When considering the projects I'd undertake, I'd begin with something simple, utilizing the knowledge I already have. A console application, perhaps a basic banking system or a simple calculator, would be a good starting point. Once I feel comfortable with programming, my next step would be to venture into web development.
 
-Again this is how i would do it so your goal might be different than mine may be you might want to go for mobile app development or game development or any other thing. So you can adjust this to your goal.
+However, it's essential to note that this is my approach, and your goals may vary. You might be interested in mobile app development, game development, or something entirely different. Feel free to tailor your path accordingly.
 
-I would start learning HTML, CSS and JS from [W3School](https://www.w3schools.com/html/) my favorite site because it is so simple and easy to understand. So what i am gonna do is once i learn these thing if i need a full course i might watch couple of youtube videos [Awesome Web Dev](https://github.com/markodenic/web-development-resources#youtube-channels) mentions a lot of resources that you can use to learn web development.
+I'd kick off my web development journey by learning HTML, CSS, and JavaScript from [W3Schools](https://www.w3schools.com/html/). I particularly favor this site because it offers straightforward and easily understandable explanations. If I require more in-depth guidance, I might watch a couple of YouTube videos from [Awesome Web Dev](https://github.com/markodenic/web-development-resources#youtube-channels), which provides a tons of resources for learning web development.
 
-So honestly i would build a project which might look silly but i would build a project that i can use to learn and practice. For example
+To solidify my learning, I'd create projects, even if they seem simple. Here are some examples:
 
-- blog site
-- todo app
-- weather app
-- Tic Tac Toe
-- etc
+- Building a blog site
+- Developing a to-do app
+- Crafting a weather app
+- Creating a game like Tic Tac Toe
+- And more
 
-These project might look silly but it will help you a lot to learn and practice. Then now it is time to learn either frontend or backend. I would go for backend because i am more interested in backend.
+These apparently straightforward projects are invaluable for learning and refining your skills. After this stage, I'd decide whether to focus on frontend or backend development. Personally, I'm drawn to backend development due to my stronger interest in it.
 
-So i would choose a backend language to get started with. I would choose either NodeJS or Python. My choice is kinda obvious because i am more interested in Python. So i would go for Python. but yours might be different.
+For the backend, I'd select a programming language to kickstart the process. My choices would come down to Node.js and Python. Given my personal inclination, I'd likely opt for Python, but your preferences may differ.
 
-So the most common mistakes i see from beginners is they start learning a framework without learning the language. So personally i would take some times how the programming language operates like Threading, Asynchronous, Multiprocessing, Interpretation or Compilation process, etc. This things are kind of low hanging fruits if you miss them it will gonna take you time to really even know you are missing them or when you code it is like driving a car in the dark you know you are driving but you don't know where you are going.
+One of the most common mistakes I notice among beginners is rushing into learning a framework without first mastering the underlying language. I would allocate time to comprehend the fundamental aspects of the programming language, including threading, asynchronous operations, multiprocessing, interpretation, compilation processes, and more. These are the building blocks, and neglecting them can lead to significant challenges down the road.
 
-After the i get a grasp of the language i would start learning a framework, personally i would go for Django as i think it is the best framework for beginners. I would learn Django from the official documentation.
+Once I have a solid grasp of the language, I'd move on to learning a framework. Personally, I'd choose Django, which I consider one of the best frameworks for beginners. I would rely on the official Django documentation as my primary learning resource.
 
-In my opinion **Django Web framework have the best documentation** than most of the framework out there.
+In my view, **Django Web framework has some of the best documentation** among most frameworks available.
 
-Now the fundamental part of web development is having a knowledge of each part at a core level. Let's take an example
+Now, a fundamental part of web development is having a deep understanding of each component at its core. Let's take an example:
 
-To know how Authentication and Authorization works instead of using a pre-made library implement it yourself. You will learn a lot from it. Like implementing Session Based Authentication is a really not that hard. I know people are afraid of implementing OAuth by themselves but I would say it is because they didn't understand how it works on the first place.
+Instead of relying on pre-made libraries for Authentication and Authorization, try implementing them from scratch. You'll learn a great deal from this experience. For instance, implementing Session-Based Authentication isn't as daunting as it may seem. While some might be hesitant about tackling OAuth on their own, it often stems from not fully grasping how it works in the first place.
 
-So Take a project that let's you implement these things by yourself. I would say a blog site is a good example. You can implement Authentication, Authorization, CRUD, etc.
-
-Let's mention couple of project ideas that you can do.
+So, choose a project that allows you to implement these functionalities yourself. A blog site is an excellent example, as it provides an opportunity to implement Authentication, Authorization, CRUD operations, and more.
+Let's mention a few project ideas that you can consider:
 
 - Blog Site
-  - with Authentication and Authorization
+  - With Authentication and Authorization
   - Commenting System
   - Like System
 - Bank Wallet
@@ -95,73 +96,84 @@ Let's mention couple of project ideas that you can do.
   - Transfer
   - Analysis
   - Monthly Report
-- E-Coomerce
+- E-Commerce
   - Authentication and Authorization
   - Cart
   - Checkout
-  - Payment with Stripe or any other payment gateway(crypto is a plus)
-  - Order
-  - etc
+  - Payment with Stripe or any other payment gateway (crypto is a plus)
+  - Order Management
 - Social Media
   - Authentication and Authorization
-  - Post
-  - Comment
-  - Like
-  - Share
-  - etc
+  - Post Creation
+  - Commenting
+  - Liking
+  - Sharing
 - Food Discovery
   - Authentication and Authorization
-  - Search
-  - Filter
-  - Map integration
-  - etc
+  - Search Functionality
+  - Filtering
+  - Integration with Maps
 - Stock Market
   - Authentication and Authorization
-  - Time Series Data
+  - Time Series Data Analysis
   - Reporting with Graphs
-  - Live Data updates
-  - place a trade (if you are interested in trading) using a redis priority queue
-  - much more
+  - Live Data Updates
+  - Implementing trade placement (if interested in trading) using a Redis priority queue
+  - And much more
 
-After finishing every single project if it is possible for me i would deploy them if possible and document the project very well. I would also write a blog about it. I would also share it on my social media and ask for feedback from my friends and colleagues.
+After completing each project, if possible, I would deploy them and create detailed documentation for each one. I'd also write blog posts about these projects, sharing them on my social media accounts, and asking for feedback from my friends and colleagues.
 
-## What would i do after this?
+## What Would I Do After This?
 
-Here is the fun part everyone loves to read, Job Searching. Before i jump on searching a job i would organize every single project that are presentable and i finished and put them on portfolio.
+The next exciting step is something many look forward to – job searching. Before diving into the job hunt, I would organize all the projects that are ready to be presented and completed. These projects would then be compiled into a portfolio.
 
-Once i get all these done i will search for either online internship or on site internship to get my hands dirty and get some real world experience. This will increase my chance of getting a job and also confidence on how to work in a team.
+Once my portfolio is set, I would search for either online internships or on-site internships to gain hands-on, real-world experience. This not only enhances my chances of securing a job but also boosts my confidence in working as part of a team.
 
-Now Searching for paid job is a little bit hard now a days because of the job market is full of people who are looking for a job. I think we are still struggling from Covid Finance Crisis. So One thing we need to remember is we don't come here to give up. We come here to fight and win.
+In today's job market, finding a paid job can be a bit challenging, especially considering the impact of the ongoing COVID-19 financial crisis. But it's crucial to remember that we don't enter this field to give up; we're here to fight and ultimately succeed.
 
-## Advice for beginners
+## Advice for Beginners
 
-I know this blog is kinda lengthy but i hope you get something out of it. I want to give you some advice that i think will help you a lot.
+I understand this blog is quite lengthy, but I hope you find it helpful. Here are some pieces of advice that I believe can make a significant difference:
 
-- Don't be afraid to ask for help. You are not alone. There are a lot of people who are willing to help you. So don't be afraid to ask for help.
-- Don't compare yourself with others. You are unique in your own way. So don't compare yourself with others. If you think somebody is smarter than you, you are wrong you are just a little bit behind them. So don't compare yourself with others.
-- Don't be afraid to fail. Failure is a part of life. You will fail a lot in your life. So don't be afraid to fail. Learn from your failure and move on.
-- Listen to your seniors. They have been there and done that. So listen to them and learn from them. You may not agree with them but you will learn a lot from them.
-- Compete with your friend and colleagues. Competition is a good thing. It will push you to do better. So compete with your friends and colleagues.
-- Surround yourself with people who have the same mindset as you. You will learn a lot from them and you will be able to share your knowledge with them.
-- Don't be with a people who are negative. They will bring you down. So don't be with a people who are negative.
-- Don't fall into the tutorial hell. You will learn a lot from tutorials but you will learn more from building projects. So don't fall into the tutorial hell.
-- Focus on one thing at a time. Don't try to learn everything at once. You will get overwhelmed and you will give up. So focus on one thing at a time.
+- Don't be afraid to ask for help. You are not alone; there are numerous people willing to assist you. Don't hesitate to seek help.
 
-The below is for getting a job.
+- Avoid comparing yourself to others. Your uniqueness sets you apart. If you think someone is more knowledgeable, remember you are merely a bit behind. Refrain from unnecessary comparisons.
 
-- Apply super fast and reply as soon as possible. You will have a better chance of getting a job if you apply super fast and reply as soon as possible.
-- Craft your cover letter and resume for the job specifically. Don't send the same cover letter and resume for every job. Craft your cover letter and resume for the job specifically.
-- Stop trying the "spray and pray" method. You will not get a job by sending your resume to every job you see. So stop trying the "spray and pray" method.
-- Have a professional looking Image, Linkedin, Github and also profile picture in every professional network.
-- Take a motivation from the job description to your next project.
-- Ask your friends and colleagues to refer you to the company they are working for.
-- STAY POSITIVE. You will get a job. So STAY POSITIVE. BE PATIENT it will pay off.
+- Embrace failure as a part of life. Failure is a natural aspect of our journey. Learn from your failures and move forward.
+
+- Pay attention to your seniors. They've been through what you're experiencing now. You may not always agree with them, but you can learn valuable lessons from their experiences.
+
+- Compete with your friends and colleagues. Healthy competition can be a powerful motivator. Competing with peers can push you to do better.
+
+- Surround yourself with like-minded people who share your goals and mindset. The exchange of knowledge and ideas among such individuals can be incredibly beneficial.
+
+- Avoid negative influences. Negative people can drag you down; choose your company wisely.
+
+- Don't fall into the "tutorial hell." While tutorials have their place, you'll gain more by working on actual projects.
+
+- Focus on one thing at a time. Trying to learn everything simultaneously can be overwhelming and may lead to frustration. Concentrate on one topic before moving on to the next.
+
+The following advice pertains to the job-seeking process:
+
+- Apply promptly and respond promptly. Swift responses increase your chances of securing a job.
+
+- Customize your cover letter and resume for each job application. A one-size-fits-all approach doesn't cut it; tailor your documents for each job.
+
+- Abandon the "spray and pray" method. Sending your resume to every job posting won't yield results.
+
+- Maintain professional profiles on platforms like LinkedIn and Github, complete with a high-quality profile picture.
+
+- Draw inspiration from job descriptions when working on your next project.
+
+- Leverage your network by asking friends and colleagues to refer you to their respective companies.
+
+- Stay positive throughout the job search process. Remember, you will find a job; stay patient, and your persistence will pay off.
 
 ## Conclusion
 
 In conclusion my path would be like this. I would start from the basics of C++ and then move to DSA. Then i would start doing projects and learn web development. Then i would start learning a backend framework and build projects. Then i would start applying for jobs.
 
-My biggest success for is my friends and the community we have [CSEC ASTU](https://www.linkedin.com/company/csec-astu/). I am so proud of them and i wanna mention some of my mentors and friends. Connect with them they are awesome. Click there names to connect with them.
+My biggest success is because of my friends and the community I had [CSEC ASTU](https://www.linkedin.com/company/csec-astu/). I am so proud of them and thankful to have them. I want to mention some of my mentors and friends. Connect with them they are awesome. Click there names to connect with them.
 
 - [Mukerem Ali](https://www.linkedin.com/in/mukerem-ali-7b1997147/)(Mentor)
 - [Mustefa Kamil](https://www.linkedin.com/in/mustefa-kamil-912576185/)(Mentor)
@@ -174,6 +186,8 @@ My biggest success for is my friends and the community we have [CSEC ASTU](https
 - [Yohanes Fikru](https://www.linkedin.com/in/yohanesfikru/)
 
 and many more that i can't mention here.
+
+Please don't be annoyed if i didn't mention your name. I am so thankful for all of you.
 
 I hope you get something out of this blog. If you have any question or feedback please let me know in the comment section below. I would love to hear from you.
 
