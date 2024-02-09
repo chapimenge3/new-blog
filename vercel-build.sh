@@ -41,3 +41,10 @@ npm install
 # run the build command
 echo "Running the build command..."
 npm run build
+
+# Trigger chapimenge.com deployment with cloudflare hook
+echo "Triggering chapimenge.com deployment with cloudflare hook..."
+curl -X POST "https://api.cloudflare.com/client/v4/pages/webhooks/deploy_hooks/8b5c5b82-8b1a-41bb-9bf1-079f7b026f34"
+
+# done
+echo "Done!"
