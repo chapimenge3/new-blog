@@ -1,47 +1,50 @@
 <!doctype html>
-<html
-  itemscope
-  lang="{{ site.LanguageCode | default `en-US` }}"
-  itemtype="http://schema.org/WebPage">
-  <head>
-    <!-- head (don't cache it) -->
-    {{ partial "essentials/head.html" . }}
+<html itemscope lang="{{ site.LanguageCode | default `en-US` }}" itemtype="http://schema.org/WebPage">
+
+<head>
+  <!-- head (don't cache it) -->
+  {{ partial "essentials/head.html" . }}
 
 
-    <!-- style (always cache it) -->
-    {{ partialCached "essentials/style.html" . }}
-  </head>
+  <!-- style (always cache it) -->
+  {{ partialCached "essentials/style.html" . }}
+</head>
 
-  <body>
-    <!-- cache partial only in production -->
-    {{ if hugo.IsProduction }}
-      {{ partialCached "preloader.html" . }}
-      {{ partialCached "gtm-noscript.html" . }}
-    {{ else }}
-      {{ partial "preloader.html" . }}
-
-
-      <!-- tailwind size indicator -->
-      {{ partial "components/tw-size-indicator.html" . }}
-    {{ end }}
+<body>
+  <!-- cache partial only in production -->
+  {{ if hugo.IsProduction }}
+  {{ partialCached "preloader.html" . }}
+  {{ partialCached "gtm-noscript.html" . }}
+  {{ else }}
+  {{ partial "preloader.html" . }}
 
 
-    <!-- header (don't cache it) -->
-    {{ partial "essentials/header.html" . }}
-    {{ partial "search-modal.html" (dict "Context" . ) }}
+  <!-- tailwind size indicator -->
+  {{ partial "components/tw-size-indicator.html" . }}
+  {{ end }}
 
 
-    <main>
-      {{ block "main" . }}{{ end }}
-    </main>
+  <!-- header (don't cache it) -->
+  {{ partial "essentials/header.html" . }}
+  {{ partial "search-modal.html" (dict "Context" . ) }}
 
-    <!-- cache partial only in production -->
-    {{ if hugo.IsProduction }}
-      {{ partialCached "essentials/footer.html" . }}
-      {{ partialCached "essentials/script.html" . }}
-    {{ else }}
-      {{ partial "essentials/footer.html" . }}
-      {{ partial "essentials/script.html" . }}
-    {{ end }}
-  </body>
+
+  <main>
+    {{ block "main" . }}{{ end }}
+  </main>
+
+  <!-- cache partial only in production -->
+  {{ if hugo.IsProduction }}
+  {{ partialCached "essentials/footer.html" . }}
+  {{ partialCached "essentials/script.html" . }}
+  {{ else }}
+  {{ partial "essentials/footer.html" . }}
+  {{ partial "essentials/script.html" . }}
+  {{ end }}
+
+  <!-- mailchimp -->
+  <script id="mcjs"
+    defer>!function (c, h, i, m, p) { m = c.createElement(h), p = c.getElementsByTagName(h)[0], m.async = 1, m.src = i, p.parentNode.insertBefore(m, p) }(document, "script", "https://chimpstatic.com/mcjs-connected/js/users/8e30948f12c6b2cc258dffab5/3345f666a0a06f9452bc19197.js");</script>
+</body>
+
 </html>
