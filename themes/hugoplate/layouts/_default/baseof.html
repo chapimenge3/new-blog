@@ -8,6 +8,9 @@
 
   <!-- style (always cache it) -->
   {{ partialCached "essentials/style.html" . }}
+  <!-- mailchimp -->
+  <script
+    id="mcjs">!function (c, h, i, m, p) { m = c.createElement(h), p = c.getElementsByTagName(h)[0], m.async = 1, m.src = i, p.parentNode.insertBefore(m, p) }(document, "script", "https://chimpstatic.com/mcjs-connected/js/users/8e30948f12c6b2cc258dffab5/61dc7f746ef6a10c918707764.js");</script>
 </head>
 
 <body>
@@ -42,9 +45,6 @@
   {{ partial "essentials/script.html" . }}
   {{ end }}
 
-  <!-- mailchimp -->
-  <script id="mcjs"
-    defer>!function (c, h, i, m, p) { m = c.createElement(h), p = c.getElementsByTagName(h)[0], m.async = 1, m.src = i, p.parentNode.insertBefore(m, p) }(document, "script", "https://chimpstatic.com/mcjs-connected/js/users/8e30948f12c6b2cc258dffab5/3345f666a0a06f9452bc19197.js");</script>
 </body>
 
 </html>
