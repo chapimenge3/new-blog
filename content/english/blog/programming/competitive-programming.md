@@ -12,21 +12,13 @@ draft: false
 
 Do you wanna know how i my programming journey started? Let's find out
 
+{{< toc >}}
+
 
 Today we are gonna talk about Competitive Programming, How to start and Keep going ?.
 
 As usual let's start with the today blog post's agenda or table of contents.
 
-**Table of Contents**
-
-1. [What is Competitive Programming ?](#what-is-competitive-programming)
-2. [Why Competitive Programming ?](#why-competitive-programming)
-3. [How to start Competitive Programming ?](#how-to-start-competitive-programming)
-4. [How to keep going ?](#how-to-keep-going)
-5. [Where to Practice ?](#where-to-practice)
-6. [Books to Learn Competitive Programming](#books-to-learn-competitive-programming)
-7. [YouTube Channels to Learn Competitive Programming](#youtube-channels-to-learn-competitive-programming)
-8. [Conclusion](#conclusion)
 
 ## What is Competitive Programming ?
 

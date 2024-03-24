@@ -12,6 +12,8 @@ draft: false
 
 Are you looking for hosting for your next project? Here are some free options.
 
+{{< toc >}}
+
 Howdy! I'm back with another post. This time I'm going to talk about some free cloud services that you can use for your next project. I'm going to talk about free cloud servers, databases, and front-end hosting. Let's get started.
 
 # Free Cloud Servers, Databases, and Front-end Hosting for Your Next Project

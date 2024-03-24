@@ -12,6 +12,8 @@ draft: false
 
 Does caching really improve the performance of your application? Let's find out
 
+{{< toc >}}
+
 This blog is high level overview of caching in Django. I will be using Django 3.0.5 and Python 3.8.2.
 
 Most website today are dynamic and they need to fetch data from database. This is a very expensive operation and it can be slow. Caching is a way to store data in memory so that it can be retrieved faster. Caching is a very important part of web development and it can be used to improve performance of your website. In this blog, I will be using Django as an example to explain how caching works.

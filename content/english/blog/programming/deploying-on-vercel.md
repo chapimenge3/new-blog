@@ -12,14 +12,10 @@ draft: false
 
 Looking for a way to deploy your telegram bot on Vercel? Here's how to do it.
 
+{{< toc >}}
+
 Hey Everyone, It has been a while since I have written a blog post. I have been busy moving to a new country and getting settled. I am still not settled but i was thinking i should drop this blog post.
 
-Today Topics are:
-
-- [Telegram Bot Long Polling and Webhook](#telegram-bot-long-polling-and-webhook)
-- [Using FastAPI to create a Telegram Bot](#using-fastapi-to-create-a-telegram-bot)
-- [Deploying FastAPI on Vercel](#deploying-fastapi-on-vercel)
-- [Deploying Telegram Bot using FastAPI on Vercel](#deploying-fastapi-on-vercel)
 
 Let's get started.
 

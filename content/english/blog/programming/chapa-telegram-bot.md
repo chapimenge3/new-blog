@@ -12,16 +12,11 @@ draft: false
 
 If you are looking for a way to integrate your telegram bot with Chapa Payment API, you are in the right place.
 
+{{< toc >}}
+
+
 Hey guys, It's me again. In this post, I will be talking about how to integrate telegram bot with Chapa Payment API. In this blog we are going to build Shopping Channel and integrate with Bot to make payment. So, let's get started.
 
-Today topics are:
-
-- [Introduction](#introduction)
-- [Creating a Telegram Channel](#creating-a-telegram-channel)
-- [Creating a Telegram Bot](#creating-a-telegram-bot)
-- [Creating a Marketplace](#creating-a-marketplace)
-- [Integrating with Chapa Payment API](#integrating-with-chapa-payment-api)
-- [Conclusion](#conclusion)
 
 ## Introduction
 
