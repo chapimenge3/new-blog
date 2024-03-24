@@ -43,7 +43,8 @@ Here are some tips to create outstanding profile on Upwork:
 
 1. Make sure your profile is complete. you must fill all the fields to make your profile 100% complete. See the below image for reference.
 
-    ![Upwork-Profile](/upwork-profile-completion.webp)
+    {{< image src="images/blogs/career/upwork-profile-completion.webp" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Upwork Profile"  webp="false" >}}
+
 
 2. Add your core skills. You can add up to 15 skills. Add the skills you wanna work on and you are good at.
 
@@ -79,7 +80,7 @@ The thing that you have to look at in the job when you start on Upwork is
 
 2. See the client history. On Upwork the freelancer success is based on his feedback and his job success score. In the same way you don't want to work with a client who has bad feedback. So, make sure to check the client history before applying for the job. 5 star feedback is the best feedback you can get. Also see the clients total spend. If the client has spent a lot of money on Upwork, it means that he is a good client and he will pay you on time.
 
-    ![client-profile](/client-profile.webp)
+    {{< image src="images/blogs/career/client-profile.webp" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="client-profile"  webp="false" >}}
 
     - Payment Verified: the client has verified his payment method. It is very Good thing. I don't suggest you apply if the client has not verified his payment method.
 
@@ -93,7 +94,7 @@ The thing that you have to look at in the job when you start on Upwork is
 
 3. Activity on this job, you can find this when you scroll down a bit on the job. 
 
-    ![job-activity](/upwork-job-activity.webp)
+    {{< image src="images/blogs/career/upwork-job-activity.webp" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="job-activity"  webp="false" >}}
 
     - Proposal: For new freelancer on Upwork i really suggest you to apply for the job that only have less than 10 proposals. If the job has more than 10 proposals, it means that your profile will be in the next page and in most case the client won't see your profile. So, make sure to apply for the job that has less than 10 proposals.(I know there is Boosting your proposal but that is a different topic)
 
@@ -170,7 +171,7 @@ You can get paid using
 4. Direct to U.S. Bank (I also use this one using [Wise](https://wise.com/invite/u/temkinmengistua))
 5. Wire Transfer
 
-    ![Payment](/upwork-payment-list.png)
+    {{< image src="images/blogs/career/upwork-payment-list.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Payment"  webp="false" >}}
 
 This is long blog post but i hope you find it helpful. If you have any question, just ask me in the comment section. I will try to answer it as soon as possible.
 

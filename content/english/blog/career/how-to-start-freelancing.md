@@ -14,7 +14,6 @@ Are people really making money from freelancing? If so how do they do it? Let's 
 
 # How to Start Freelancing
 
-![Start-Freelancing](/start-freelance.webp)
 
 ## Introduction
 

@@ -2,7 +2,7 @@
 title: "Caching in Django part 2"
 description: "Does caching really improve the performance of your application? Let's find out."
 meta_title: ""
-date: 2022-10-28 19:23:39
+date: 2022-10-29 19:23:39
 image: "/images/blogs/python/django_cache.webp"
 categories: ["Programming"]
 author: "Chapi Menge"
@@ -309,7 +309,8 @@ pip install django-debug-toolbar
 
 Now open your browser and go to `http://localhost:8000/events/` and you should debug toolbar at the right side of the page. Click on the `Cache` tab and you should see the cache information.
 
-![debug-toolbar](/screenshot-debugtoolbar.webp)
+{{< image src="images/blogs/python/screenshot-debugtoolbar.webp" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="debug-toolbar"  webp="true" >}}
+
 
 Try making the constant `USE_CACHE` to `False` and send the request again. You should see the cache information is empty.
 

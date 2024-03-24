@@ -46,7 +46,8 @@ I am not going to teach you how to use your aws account in this blog but please 
 So now we are going to create AWS IAM user for our deployment later usage. Here are the step your should follow:
 
 1. Go to IAM by searching in aws search panel
-   ![AWS-Search](/aws-search-panel.png)
+
+   {{< image src="images/blogs/aws/aws-search-panel.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="AWS-Search"  webp="false" >}}
 
 2. Click **Users** in the left navigation bar and Click **Add Users**
 
@@ -651,7 +652,7 @@ serverless deploy
 
 We have launched successfully
 
-![Deployment](/todo-deployment.png)
+{{< image src="images/blogs/aws/todo-deployment.png" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="TODO-Deployment"  webp="false" >}}
 
 Now you can play with the api as long as you want but in the mean time we have to delete everything as this is for only educational purposes. When you feel like you are done playing with the API delete the stack using the below code.
 

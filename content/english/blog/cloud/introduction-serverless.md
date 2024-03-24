@@ -3,7 +3,7 @@ title: "What is Serverless Architectures?"
 description: "You must been hearing about serverless architectures. But what is it? Let's find out."
 meta_title: ""
 date: 2022-12-02 10:23:39
-image: "/images/blogs/programming/serverless.png"
+image: "/images/blogs/aws/serverless.png"
 categories: ["Cloud"]
 author: "Chapi Menge"
 tags: ["cloud", "aws", "serverless"]
@@ -50,7 +50,8 @@ So why use serverless architectures? Here are some of the reasons:
 
 So by now we know a little bit about what is serverless architectures and why we should use it. But how does it work? Let's take a look at the diagram below:
 
-![Serverless-Architecture](/aws-lambda.webp)
+{{< image src="images/blogs/aws/aws-lambda.webp" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="AWS Lambda"  webp="false" >}}
+
 
 As you can see in the diagram above, there are 3 main components:
 
@@ -208,7 +209,7 @@ Many company now a days are using serverless architectures to build their applic
 
 Here is the image that shows the different serverless services in AWS
 
-![Serverless Services](/awsserverless-services.webp)
+{{< image src="images/blogs/aws/awsserverless-services.webp" caption="" alt="alter-text" height="" width="" position="center" command="fill" option="q100" class="img-fluid" title="Serverless Services"  webp="true" >}}
 
 ## What's next?
 
