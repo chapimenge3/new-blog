@@ -116,46 +116,19 @@ class Order(models.Model):
 
 {{< accordion "Click to see the Full Code" >}}
 
-```python
-
-# bot/models.py <-- Add the below code to this file
-
-from django.db import models
-from django.contrib.auth.models import AbstractUser
-
-class User(models.Model):
-    telegram_id = models.CharField(max_length=255, unique=True)
-    username = models.CharField(max_length=255)
-    first_name = models.CharField(max_length=255)
-    last_name = models.CharField(max_length=255)
-    phone_number = models.CharField(max_length=255)
-    created_at = models.DateTimeField(auto_now_add=True)
-    updated_at = models.DateTimeField(auto_now=True)
-
-    def __str__(self):
-        return self.username
-    
-    class Meta:
-        indexes = [
-            models.Index(fields=['telegram_id'], name='telegram_id_idx'),
-        ]
-
-class Channel(models.Model):
-    channel_id = models.CharField(max_length=255, unique=True)
-    name = models.CharField(max_length=255)
-    created_at = models.DateTimeField(auto_now_add=True)
-    updated_at = models.DateTimeField(auto_now=True)
-
-    def __str__(self):
-        return self.name
-
-    class Meta:
-        indexes = [
-            models.Index(fields=['channel_id'], name='channel_id_idx'),
-        ]
-```
+{{< button label="Get the full Code" link="https://gist.github.com/chapimenge3/af426615d9396c8d9c7f64ee059967ce#file-bot-models-py" style="solid" >}}
 
 {{< /accordion >}}
+
+
+Before Migration we need to register our new User model to be used as the default user model. So let's add the below code to the `settings.py` file.
+
+```python
+...
+
+AUTH_USER_MODEL = 'bot.User'
+...
+```
 
 Now we will create the database tables by running the following command:
 
